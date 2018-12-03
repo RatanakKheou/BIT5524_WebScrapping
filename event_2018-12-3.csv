@@ -1,0 +1,48 @@
+Events,CategoryID,Date,Days
+New Year's Eve,Special,2016-12-31,Friday
+New Year's Day,Special,2017-01-01,Saturday
+New Year's Day observed,Special,2017-01-02,Sunday
+Martin Luther King Jr. Day,Special,2017-01-16,Sunday
+Valentine's Day,Special,2017-02-14,Monday
+Presidents' Day (regional holiday),Special,2017-02-20,Sunday
+Daylight Saving Time starts,Special,2017-03-12,Saturday
+St. Patrick's Day,Special,2017-03-17,Thursday
+Easter Sunday,Special,2017-04-16,Saturday
+Tax Day,Special,2017-04-18,Monday
+Cinco de Mayo,Special,2017-05-05,Thursday
+Mother's Day,Special,2017-05-14,Saturday
+Memorial Day,Special,2017-05-29,Sunday
+Father's Day,Special,2017-06-18,Saturday
+Independence Day,Special,2017-07-04,Monday
+Labor Day,Special,2017-09-04,Sunday
+Columbus Day (regional holiday),Special,2017-10-09,Sunday
+Halloween,Special,2017-10-31,Monday
+Daylight Saving Time ends,Special,2017-11-05,Saturday
+Veterans Day observed,Special,2017-11-10,Thursday
+Veterans Day,Special,2017-11-11,Friday
+Thanksgiving Day,Special,2017-11-23,Wednesday
+Black Friday,Special,2017-11-24,Thursday
+Christmas Eve,Special,2017-12-24,Saturday
+Christmas Day,Special,2017-12-25,Sunday
+New Year's Eve,Special,2017-12-31,Saturday
+New Year's Day,Special,2018-01-01,Sunday
+Martin Luther King Jr. Day,Special,2018-01-15,Sunday
+Valentine's Day,Special,2018-02-14,Tuesday
+Presidents' Day (regional holiday),Special,2018-02-19,Sunday
+Daylight Saving Time starts,Special,2018-03-11,Saturday
+St. Patrick's Day,Special,2018-03-17,Friday
+Easter Sunday,Special,2018-04-01,Saturday
+Tax Day,Special,2018-04-17,Monday
+Cinco de Mayo,Special,2018-05-05,Friday
+Mother's Day,Special,2018-05-13,Saturday
+Memorial Day,Special,2018-05-28,Sunday
+Father's Day,Special,2018-06-17,Saturday
+Independence Day,Special,2018-07-04,Tuesday
+Labor Day,Special,2018-09-03,Sunday
+Columbus Day (regional holiday),Special,2018-10-08,Sunday
+Halloween,Special,2018-10-31,Tuesday
+Daylight Saving Time ends,Special,2018-11-04,Saturday
+Veterans Day,Special,2018-11-11,Saturday
+Veterans Day observed,Special,2018-11-12,Sunday
+Thanksgiving Day,Special,2018-11-22,Wednesday
+Black Friday,Special,2018-11-23,Thursday
